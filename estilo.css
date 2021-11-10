@@ -1,0 +1,103 @@
+* {
+	margin:0;
+	padding: 0;
+}
+h1{
+	color: #BB2233;
+	font-size: 32px;
+	text-align: center;
+	padding: 30px 40px 30px 20px;
+}
+h2{
+	color: #4040B1;
+	font-size: 24px;
+}
+h3{
+	color: #3BB938;
+	font-size: 24px
+}
+h4{
+	font-size: 16px;
+}
+
+#topo{
+	background: #FFCC8B;
+	width: 1000px;
+	height: 120px;
+}
+#fotos{
+	background: #8d0865;
+	width: 1000px;
+	height: 400px;
+	float: left;
+    text-align: center; 
+}
+#coluna{
+	background: #d42d2d;
+	width: 1000px;
+	height: 250px;
+	float: right;
+    text-align: center;
+}
+.coluna{
+    background: #d42d2d;
+	width: 1000px;
+	height: 3300px;
+	float: right;
+    text-align: center;
+
+}
+.projetos{
+	background: #8d0865;
+	width: 1000px;
+	height: 800px;
+	float: left;
+    text-align: center; 
+}
+.texto{
+    background-color:rgb(82, 245, 117);
+}
+.fotos{
+    background-color: snow;
+}
+.videos{
+    background: #8d0865;
+	width: 1000px;
+	height: 1100px;
+	float: left;
+    text-align: center; 
+	float: left;
+
+}
+.cor {
+	color: red;
+	text-decoration-style: dotted;
+	text-decoration-color: rgb(255, 0, 0);
+}
+.links {
+	background: #62ff08;
+	width: 1000px;
+	height: 100px;
+    text-align: center;
+	float: left; 
+}
+.imagens {
+	background: #8d0865;
+	width: 1000px;
+	height: 400px;
+	float: left;
+    text-align: center; 
+}
+#rodape{
+	background: #FFECD1;
+	width: 1000px;
+	height: 40px;
+	clear: both;
+    text-align: center;
+}
+
+#tudo {
+	width: 1000px;
+	border: 1px solid rgb(168, 0, 0);
+	margin: 40px auto;
+}
